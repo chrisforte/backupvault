@@ -4,9 +4,9 @@ Backup Vault is a backup solution for Windows 10 that automatically backs up fil
 
 Features include automatic backups, backup validation and reporting, file indexing, and search.
 
-### Changelog
+### [Changelog](changelog.md)
 
-[View changelog here](changelog.md)
+### [Privacy Policy](privacy-policy.md)
 
 ---
 
